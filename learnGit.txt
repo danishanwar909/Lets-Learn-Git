@@ -34,4 +34,11 @@ Initialize above directory with git by this command
 git Init 
 
 open above directory in vs code
-create file 
+create file and write some content in it
+
+Commands
+git status - it tell which files are deleted, updated or added 
+git add <filename> - it move files(newly created or modified file) from untracked stage to tracked stage
+git add . - it move all files(newly created or modified file) from untracked stage to tracked stage
+git commit -m "initial commit" - commit files from tracked stage. Message should be meaningfull 
+git log - To see how much commits till now 
