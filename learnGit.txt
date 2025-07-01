@@ -1,0 +1,22 @@
+
+Command prompt window
+
+1- To go from child to parent directory
+   cd ..
+
+2- Go back multiple levels by repeating .. with a backslash. This would take you two directories up.
+   cd ..\..
+
+3- To go from a parent directory to a child directory 
+   cd foldername
+   
+4- To list folders in the current directory, use:
+   dir
+
+5- To go from drive c to d use:
+   d:
+
+
+
+
+
